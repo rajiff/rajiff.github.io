@@ -1,2 +1,2 @@
 # rajiff.github.io
-Personal sit to share Blogs &amp; thoughts
+Personal site to share Blogs &amp; thoughts
